@@ -1,0 +1,44 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+        <sys:String x:Key="__ThemeSettings__"></sys:String>
+
+        <SolidColorBrush x:Key="MainBackground">#FFFFFFFF</SolidColorBrush>
+        <SolidColorBrush x:Key="MainTextColor">#FF000000</SolidColorBrush>
+        <SolidColorBrush x:Key="WeakTextColor">#FF636363</SolidColorBrush>
+
+        <Color x:Key="ButtonShadowColor">#000000</Color>
+
+        <SolidColorBrush x:Key="ColorFillImageBoxGrid">#FFF2E7</SolidColorBrush>
+        <SolidColorBrush x:Key="ImageBoxGridTitleBackground">#FFFFFFFF</SolidColorBrush>
+        <SolidColorBrush x:Key="ImageBoxGridTitleForeground">#FF000000</SolidColorBrush>
+
+        
+
+        <SolidColorBrush x:Key="AnalyseImagesGrid">#00000000</SolidColorBrush>
+
+        <SolidColorBrush x:Key="PeviewImagesContainer">#00373434</SolidColorBrush>
+        <SolidColorBrush x:Key="PeviewImagesContainerBorder">#8B8B8B</SolidColorBrush>
+
+        <SolidColorBrush x:Key="scrollBorderColor">#FF1D1D1D</SolidColorBrush>
+
+        <SolidColorBrush x:Key="PreviewImageSelectionOvelay">#4CF17933</SolidColorBrush>
+        <SolidColorBrush x:Key="CurrentAnalyseImageOvelay">#4C8E1CE0</SolidColorBrush>
+
+        <SolidColorBrush x:Key="ButtonBackground">#5F5F5F</SolidColorBrush>
+        <SolidColorBrush x:Key="ButtonForeground">#FFFFFF</SolidColorBrush>
+
+        <SolidColorBrush x:Key="ButtonBorderBackground">#5F5F5F</SolidColorBrush>
+        <SolidColorBrush x:Key="ButtonBorderColor">#5F5F5F</SolidColorBrush>
+
+        <SolidColorBrush x:Key="ButtonBackgroundHover">#403C3C</SolidColorBrush>
+
+        <SolidColorBrush x:Key="PreviewImageBackground">#FFEFEFEF</SolidColorBrush>
+        <SolidColorBrush x:Key="ImagePerviewBackgroundLighter">#FFC3C3C3</SolidColorBrush>
+
+        <Color x:Key="OpacityMaskForHalfTransparent">#ffffff</Color>
+        <Color x:Key="OpacityMaskForTransparent">#ff0000</Color>
+        <Color x:Key="OpacityMaskForNonTransparent">#000000</Color>
+        
+</ResourceDictionary>

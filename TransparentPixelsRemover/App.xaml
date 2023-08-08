@@ -1,0 +1,17 @@
+﻿<Application x:Class="TransparentPixelsRemover.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TransparentPixelsRemover"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries >
+                <ResourceDictionary  Source="/TransparentPixelsRemover;component/languages/english.xaml"/>
+                <ResourceDictionary  Source="/TransparentPixelsRemover;component/languages/baseTextResource.xaml"/>
+                
+                <ResourceDictionary  Source="/TransparentPixelsRemover;component/themes/standart.xaml"/>
+                <ResourceDictionary  Source="/TransparentPixelsRemover;component/NewButtonsStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

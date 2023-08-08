@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <sys:String x:Key="__LanguageSettings__"></sys:String>
+
+    <sys:String x:Key="Text_Before">До</sys:String>
+    <sys:String x:Key="Text_After">После</sys:String>
+    <sys:String x:Key="Text_OpacityMap">Карта прозрачности</sys:String>
+    <sys:String x:Key="Text_GMView">GM-просмотр</sys:String>
+    <sys:String x:Key="Text_OpacityMapAfter">Карта после</sys:String>
+    <sys:String x:Key="Text_GMViewAfter">GM-просмотр после</sys:String>
+    
+    <sys:String x:Key="Text_SelectedImages">Сохранить выбранные изображения</sys:String>
+    <sys:String x:Key="Text_SaveAllImages">Сохранить все изображения</sys:String>
+
+    <sys:String x:Key="Text_SelectFolder">Выбрать папку</sys:String>
+    <sys:String x:Key="Text_ClearList">Очистить список</sys:String>
+
+    <sys:String x:Key="Text_Apply">Применить</sys:String>
+
+    <sys:String x:Key="Text_PixelRemovalCondition">Удалить пиксели, которые более прозрачны, чем:</sys:String>
+
+    <sys:String x:Key="Text_ChooseLanguage">Выбрать язык</sys:String>
+    <sys:String x:Key="Text_ChooseTheme">Выбрать тему</sys:String>
+
+    <sys:String x:Key="Text_CountOfHalfTransparent">Процент полупрозрачных пикселей:</sys:String>
+
+</ResourceDictionary>
