@@ -28,8 +28,8 @@ Follow these steps to launch the application:
 
 ---
 ## Your gratitude 💕
-Subscribe to my **YouTube** channel - **https://www.youtube.com/@murmelus**
+Subscribe to my **YouTube** channel - **https://www.youtube.com/@murmelex**
 
 ---
 ## Questions? 💬
-Write to **murmelusblog@gmail.com**, but the best thing can be a comment under my video 😎
+Write to **murmelex@gmail.com**, but the best thing can be a comment under my video 😎
